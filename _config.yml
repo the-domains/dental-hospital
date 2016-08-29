@@ -1,4 +1,3 @@
-layout_spectrum: 0.7162201933097094
 typography_spectrum: 0.6073237285017967
 color:
   brandStrength: 0.08764256280846894
@@ -11,4 +10,6 @@ color:
     - '#BDD4DE'
     - '#EFEFEF'
     - '#FF530D'
+layout_spectrum: 0.7162201933097094
 name: 'Dental Hospital '
+title: Dental Hospital in Bristol
