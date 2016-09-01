@@ -1,3 +1,4 @@
+layout_spectrum: 0.7162201933097094
 typography_spectrum: 0.6073237285017967
 color:
   brandStrength: 0.08764256280846894
@@ -5,12 +6,9 @@ color:
   saturation: 0.22553671756759286
   rhythmicContrast: 0.2574769901111722
   brandColors:
-    - '#2B3A42'
-    - '#3F5765'
-    - '#BDD4DE'
-    - '#EFEFEF'
-    - '#FF530D'
-layout_spectrum: 0.7162201933097094
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: 'Dental Hospital '
-title: Dental Hospital in Bristol
-description: Dental implants
